@@ -1,4 +1,4 @@
-# IN12-IN15-Binary-Nixie-Clock
+# IN12 & IN15 Binary Nixie Clock
 
 - <a href="https://github.com/marcinsaj/IN12-IN15-Binary-Nixie-Clock/blob/master/datasheet/How-To-Read-Binary-Nixie-Clock.pdf">How To Read Binary Nixie Clock</a>
 - Assembly Instruction - work in progress...
