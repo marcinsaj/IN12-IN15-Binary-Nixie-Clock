@@ -7,7 +7,7 @@
 // Serial monitor is required to display basic options.
 //
 // Hardware:
-// IN-12 & IN-15 Binary Nixie Clock - https://nixietester.com/project/in-2-binary-nixie-clock/
+// IN-12 & IN-15 Binary Nixie Clock - https://nixietester.com/project/in12-in15-binary-nixie-clock/
 // Arduino Nano - https://store.arduino.cc/arduino-nano
 // Or Arduino Nano Every - https://store.arduino.cc/arduino-nano-every
 // Or Arduino Nano IoT 33 - https://store.arduino.cc/arduino-nano-33-iot
