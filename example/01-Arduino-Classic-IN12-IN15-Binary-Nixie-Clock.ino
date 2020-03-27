@@ -8,12 +8,14 @@
 //
 // Hardware:
 // IN-12 & IN-15 Binary Nixie Clock - https://nixietester.com/project/in12-in15-binary-nixie-clock/
-// Arduino Nano - https://store.arduino.cc/arduino-nano
+// Arduino Classic e.g. Uno, Leonardo, Zero
+// Or Arduino Micro - https://store.arduino.cc/arduino-micro
+// Or Arduino Nano - https://store.arduino.cc/arduino-nano
 // Or Arduino Nano Every - https://store.arduino.cc/arduino-nano-every
 // Or Arduino Nano IoT 33 - https://store.arduino.cc/arduino-nano-33-iot
 // 2 x Nixie Power Supply Module, 2 x Nixie Tube Driver V2 & RTC DS3231 module
 // Nixie clock require 12V, 1.5A power supply
-// Schematic IN-12 & IN-15 Binary Nixie Clock - http://bit.ly/IN2-BNC-Schematic
+// Schematic IN-12 & IN-15 Binary Nixie Clock - http://bit.ly/IN12-BNC-Schematic
 // Schematic Nixie Tube Driver V2 - http://bit.ly/NTD-Schematic
 // Schematic Nixie Power Supply Module - http://bit.ly/NPS-Schematic
 // DS3231 RTC datasheet: https://datasheets.maximintegrated.com/en/ds/DS3231.pdf
