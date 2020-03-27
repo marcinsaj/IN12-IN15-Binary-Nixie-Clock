@@ -1,8 +1,5 @@
 # IN12-IN15-Binary-Nixie-Clock
 
-# IN-2 Binary Nixie Clock
-IN-2 Binary Nixie Clock
-
 - <a href="https://github.com/marcinsaj/IN12-IN15-Binary-Nixie-Clock/blob/master/datasheet/How-To-Read-Binary-Nixie-Clock.pdf">How To Read Binary Nixie Clock</a>
 - Assembly Instruction - work in progress...
 - <a href="https://github.com/marcinsaj/in2-binary-nixie-clock/tree/master/example">Example Arduino Code</a>
