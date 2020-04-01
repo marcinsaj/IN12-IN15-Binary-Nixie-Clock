@@ -8,6 +8,7 @@
 - <a href="https://github.com/marcinsaj/IN12-IN15-Binary-Nixie-Clock/blob/master/datasheet/IN12-IN15-Binary-Nixie-Clock-Schematic.pdf">IN-12 & IN-15 Binary Nixie Clock - Schematic</a>
 - <a href="https://github.com/marcinsaj/IN12-IN15-Binary-Nixie-Clock/blob/master/datasheet/Nixie-Tube-Driver-V2-Schematic.pdf">Nixie Tube Driver V2 - Schematic</a>
 - <a href="https://github.com/marcinsaj/IN12-IN15-Binary-Nixie-Clock/blob/master/datasheet/Nixie-Module-Power-Supply-Schematic.pdf">Nixie Power Supply Module - Schematic</a>
+ - Arduino Micro/Nano Adapter Schematic - work in progress...
 
 # Diagram
 <p align="center"><img src="https://github.com/marcinsaj/IN12-IN15-Binary-Nixie-Clock/blob/master/extras/IN12-IN15-Binary-Nixie-Clock.jpg"></p>
