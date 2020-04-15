@@ -1,9 +1,7 @@
 # IN-12 & IN-15 Binary Nixie Clock
 
 - <a href="https://github.com/marcinsaj/IN12-IN15-Binary-Nixie-Clock/blob/master/datasheet/How-To-Read-Binary-Nixie-Clock.pdf">How To Read Binary Nixie Clock</a>
-- Assembly Instruction - work in progress...
-- VCC Settings - work in progress...
-- Drivers & Nixie Tubes Settings - work in progress...
+- <a href="https://github.com/marcinsaj/IN12-IN15-Binary-Nixie-Clock/blob/master/datasheet/BIG-Binary-Nixie-Clock-Assembly-Instruction.pdf">Assembly Instruction</a> 
 - <a href="https://github.com/marcinsaj/IN12-IN15-Binary-Nixie-Clock/tree/master/example">Example Arduino Code</a>
 - <a href="https://github.com/marcinsaj/IN12-IN15-Binary-Nixie-Clock/blob/master/datasheet/IN12-IN15-Binary-Nixie-Clock-Schematic.pdf">IN-12 & IN-15 Binary Nixie Clock - Schematic</a>
 - <a href="https://github.com/marcinsaj/IN12-IN15-Binary-Nixie-Clock/blob/master/datasheet/Nixie-Tube-Driver-V2-Schematic.pdf">Nixie Tube Driver V2 - Schematic</a>
